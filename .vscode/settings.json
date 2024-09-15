@@ -1,0 +1,12 @@
+{
+  "azureFunctions.deploySubpath": "Serverless Functions/Azure/python3.9WithNumpy",
+  "azureFunctions.postDeployTask": "npm install (functions)",
+  "azureFunctions.projectLanguage": "Python",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectLanguageModel": 2,
+  "azureFunctions.projectSubpath": "Serverless Functions/Azure/python3.9WithNumpy",
+  "azureFunctions.preDeployTask": "npm prune (functions)",
+  "azureFunctions.scmDoBuildDuringDeployment": true,
+  "azureFunctions.pythonVenv": ".venv"
+}
